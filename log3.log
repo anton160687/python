@@ -1,0 +1,9 @@
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 120, *args: (5,), *kwargs: {}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 3628800, *args: (10,), *kwargs: {}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 1307674368000, *args: (15,), *kwargs: {}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 120, *args: (), *kwargs: {'x': 5}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 1307674368000, *args: (15,), *kwargs: {}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 1307674368000, *args: (15,), *kwargs: {}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 1307674368000, *args: (15,), *kwargs: {}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 3628800, *args: (), *kwargs: {'x': 10}
+INFO:__main__:<built-in function asctime> - %(levelname)s - %(funcName)s: %(lineno)d - %(message)s result: 1, *args: (), *kwargs: {'x': 0}
